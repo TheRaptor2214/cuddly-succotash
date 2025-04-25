@@ -550,6 +550,7 @@ endpoints:
         default:
           - deepseek-chat
           - deepseek-reasoner
+          - deepseek-coder
         fetch: false
       titleConvo: true
       titleModel: "deepseek-chat"
